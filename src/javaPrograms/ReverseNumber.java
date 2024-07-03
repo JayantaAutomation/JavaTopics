@@ -1,5 +1,10 @@
 package javaPrograms;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 import java.util.Scanner;
 
 public class ReverseNumber {

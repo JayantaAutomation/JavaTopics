@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class SecondLowestHighestNumber {
 
 	public static void main(String[] args) {

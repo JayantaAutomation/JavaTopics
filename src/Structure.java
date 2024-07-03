@@ -1,3 +1,7 @@
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
 
 public class Structure {
 

@@ -1,5 +1,10 @@
 package javaPrograms;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class Swapping2Numbers {
 
 	public static void main(String[] args) {

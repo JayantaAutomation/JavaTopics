@@ -2,6 +2,11 @@ package javaPrograms;
 
 import java.util.stream.IntStream;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class PrintNumberWithoutLoop {
 
 	public static void main(String[] args) {

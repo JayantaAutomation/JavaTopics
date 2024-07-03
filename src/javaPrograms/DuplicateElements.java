@@ -6,6 +6,10 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
 public class DuplicateElements {
 
 	public static void main(String[] args) {

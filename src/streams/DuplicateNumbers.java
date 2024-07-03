@@ -1,5 +1,10 @@
 package streams;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashSet;

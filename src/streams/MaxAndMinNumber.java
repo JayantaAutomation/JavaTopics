@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class MaxAndMinNumber {
 
 	public static void main(String[] args) {

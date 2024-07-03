@@ -3,6 +3,11 @@ package streams;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class NumberSquareAverage {
 
 	public static void main(String[] args) {

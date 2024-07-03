@@ -1,5 +1,10 @@
 package javaPrograms;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class RemoveWhitespace {
 
 	public static void main(String[] args) {

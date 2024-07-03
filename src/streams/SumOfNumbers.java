@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class SumOfNumbers {
 
 	public static void main(String[] args) {

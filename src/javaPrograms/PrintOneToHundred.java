@@ -1,5 +1,10 @@
 package javaPrograms;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class PrintOneToHundred {
 
 	public static void main(String[] args) {

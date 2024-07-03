@@ -1,5 +1,9 @@
 package javaPrograms;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */ 
 public class MissingNumber {
 
 	public static void main(String[] args) {
