@@ -5,8 +5,6 @@
   * 
   */
  
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class StringSwap {
 
 	public static void main(String[] args) {
